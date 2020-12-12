@@ -1,3 +1,3 @@
 # Harry
 
-<h1>Welcome to my Page - Good to see you ☕</h1>
+<h1>Welcome to my page - It's good to see you :)</h1>
