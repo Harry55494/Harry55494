@@ -4,6 +4,6 @@
   
 Should you need to contact me, my email is harrison@phillingham.com (or click [here](mailto:harrison@phillingham.com) )
 
-Unfotunately, most of my repos are private, for security purposes. Despite this, unless otherwise specified, all code is (C) me.</p>
+Unless otherwise specified, all code is (C) me.</p>
 
 https://harrison.phillingham.com
