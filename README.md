@@ -8,4 +8,4 @@ Unless otherwise specified, all code is (C) me.</p>
 
 https://harrison.phillingham.com
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harry55494&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![LeetCode Stats](https://leetcard.jacoblin.cool/harry55494?theme=dark&font=Fira%20Code)
