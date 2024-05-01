@@ -1,11 +1,11 @@
-<h1>Welcome to my page - It's good to see you :)</h1>
+<h1>Hey! 👋</h1>
 
-<p>The name's Harrison, and I'm a CS Student living in the UK 🇬🇧
-  
-Should you need to contact me, my email is harrison@phillingham.com
+<p>The name's Harrison, and I'm a recent MSc Computer Science graduate in the UK 🇬🇧
 
-Unless otherwise specified, all code is (C) me.</p>
+I work in Digital Forensics, but I also code in my spare time. You can view some of my public projects below.
 
-https://harrison.phillingham.com
+Check out my website too!</p> https://harrison.phillingham.com
+
+
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/harry55494?theme=dark&font=Fira%20Code)
