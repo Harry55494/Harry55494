@@ -1,5 +1,5 @@
 <h1>Hey! 👋</h1>
 
-<p>The name's Harrison, and I'm a recent MSc Computer Science graduate in the UK 🇬🇧
+<p>The name's Harrison, and I work in Digital Forensics 🇬🇧</p>
 
-I work in Digital Forensics, but I also code in my spare time. You can view some of my public projects below. </p>
+<p>Check out my website <a href="https://harrison.phillingham.com">here</a> or view some of my projects below.</p>
