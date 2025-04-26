@@ -1,5 +1,6 @@
-<h1>Hey! 👋</h1>
+## Hey! 👋
 
-<p>The name's Harrison, and I work in Digital Forensics 🇬🇧</p>
+The name's Harrison, and I work in Digital Forensics 🇬🇧
 
-<p>Check out my website <a href="https://harrison.phillingham.com">here</a> or view some of my projects below.</p>
+I self-host a lot of things, including my own Git instance of [Gitea](https://about.gitea.com/), but my key repos are mirrored here too.  
+You an also check out my website at [harrison.phillingham.com](https://harrison.phillingham.com).
